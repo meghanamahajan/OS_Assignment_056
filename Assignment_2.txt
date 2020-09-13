@@ -1,5 +1,4 @@
-200240320058
-Mohini Chaudhari
+
 
 ===============================================================================================================
 
@@ -254,8 +253,8 @@ echo $num | rev
 
 
 1.Write a shell script to validate password strength. Here are a few assumptions for the password string.
-Length  – minimum of 8 characters.
+Length  â€“ minimum of 8 characters.
 Contain both alphabet and number.
 Include both the small and capital case letters.
-If the password doesn’t comply with any of the above conditions, then the script should report it as a <Weak Password>.
+If the password doesnâ€™t comply with any of the above conditions, then the script should report it as a <Weak Password>.
 
